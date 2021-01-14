@@ -1,3 +1,5 @@
+![Points badge](../../blob/badges/.github/badges/points.svg)
+
 # Lab ## - Template
 
 Template repo for Python labs.
