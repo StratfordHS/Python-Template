@@ -25,7 +25,7 @@ jobs:
       - name: points badge
         uses: emibcn/badge-action@v1
         with:
-          LABEL: 'Points'
+          LABEL: 'Passed'
           STATUS: ${{ steps.autograder.outputs.points }}
           COLOR: cyan
           scale: 2
