@@ -39,6 +39,16 @@
       "comparison": "included",
       "timeout": 2,
       "points": 1
+    },
+    {
+      "name": "Test One Unit Test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k \"name_of_test_method\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
     }
   ]
 }
